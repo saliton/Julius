@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Julius/blob/main/Julius.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Julius/blob/main/Julius.ipynb)
 
 # 5分でできる音声認識　JuliusをColabのGPUで動かす
 
